@@ -4,15 +4,33 @@
 
 **19)** -2 + 3i
 
+<img width="328" height="333" alt="19" src="https://github.com/user-attachments/assets/8d171f15-4a38-4b38-b6ea-d037750c0ea9" />
+
+
 **20)** | 1 - 2i
+
+<img width="398" height="323" alt="20" src="https://github.com/user-attachments/assets/b8d407bf-223e-4f01-bc28-5d0093a4d3a5" />
+
 
 **21)** | -4 + 3i
 
+<img width="467" height="363" alt="21" src="https://github.com/user-attachments/assets/22f96907-900f-4c67-a607-bf14ba4dafe8" />
+
+
 **22)** 3 + i
+
+<img width="380" height="379" alt="22" src="https://github.com/user-attachments/assets/a30abb4c-c701-4050-bd40-a758814eae22" />
+
 
 **23)** -4 - 4i
 
+<img width="403" height="383" alt="23" src="https://github.com/user-attachments/assets/3beadf84-8944-40e3-a53c-68f31b2b670f" />
+
+
 **24)** -2 - i
+
+<img width="375" height="336" alt="24" src="https://github.com/user-attachments/assets/57624559-7fe8-442e-9ddd-b6716aff02af" />
+
 
 ## Resuelve las siguientes operaciones con números complejos
 
