@@ -3,10 +3,15 @@
 ## Ubica los siguientes números complejos en el plano
 
 **19)** -2 + 3i
+
 **20)** | 1 - 2i
+
 **21)** | -4 + 3i
+
 **22)** 3 + i
+
 **23)** -4 - 4i
+
 **24)** -2 - i
 
 ## Resuelve las siguientes operaciones con números complejos
