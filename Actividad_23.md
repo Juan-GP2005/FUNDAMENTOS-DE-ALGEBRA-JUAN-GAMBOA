@@ -467,7 +467,7 @@ $$
 
 ### Ejercicio 125
 * **Procedimiento:**
-  * $5x + 10(1) = 15(3) \implies 5x + 10 = 45 \implies 5x = 35 \implies \mathbf{\$7\text{ por onza}}$
+  * $4x + 8(1) = 12(2) \implies 4x + 8 = 24 \implies 4x = 16 \implies \mathbf{x = 4\text{ dólares por onza}}$
 
 ### Ejercicio 126
 * **Procedimiento:**
