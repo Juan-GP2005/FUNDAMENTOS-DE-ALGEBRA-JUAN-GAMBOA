@@ -467,7 +467,7 @@ $$
 
 ### Ejercicio 125
 * **Procedimiento:**
-  * $4x + 8(1) = 12(2) \implies 4x + 8 = 24 \implies 4x = 16 \implies \mathbf{x = 4\text{ dólares por onza}}$
+  * $4x + 8(1) = 12(2) \implies 4x + 8 = 24 \implies 4x = 16 \implies \mathbf{x = 4\text{ por onza}}$
 
 ### Ejercicio 126
 * **Procedimiento:**
